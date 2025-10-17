@@ -1,8 +1,8 @@
 # Frontend Mentor - Product list with cart
 
-![Design preview for the Product list with cart coding challenge](./preview.jpg)
+![Design preview for the Product list with cart coding challenge](./myImages/CartDesktopView.png)
 
-[challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+[challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-list-with-cart-using-reactjs-redux-toolkit-and-tailwindcss-8x-cEb9YyO)
+- Live Site URL: [live site URL](https://ffproductlistwithcart.netlify.app/)
 
 ## My process
 
